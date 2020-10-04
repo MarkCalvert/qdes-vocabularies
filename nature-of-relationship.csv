@@ -1,0 +1,13 @@
+label,uri,inverse,definition
+hasPart,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/hasPart,isPartOf,A related resource that is included either physically or logically in the described resource.
+isPartOf,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/isPartOf,hasPart,A related resource in which the described resource is physically or logically included.
+isFormatOf,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/isFormatOf,hasFormat,"A pre-existing related resource that is substantially the same as the described resource, but in another format."
+hasFormat,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/hasFormat,isFormatOf,"A related resource that is substantially the same as the pre-existing described resource, but in another format."
+isVersionOf,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/isVersionOf,hasVersion,"A related resource of which the described resource is a version, edition, or adaptation."
+hasVersion,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/hasVersion,isVersionOf,"A related resource that is a version, edition, or adaptation of the described resource."
+replaces,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/replaces,isReplacedBy,"A related resource that is supplanted, displaced, or superseded by the described resource."
+isReplacedBy,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/isReplacedBy,replaces,"A related resource that supplants, displaces, or supersedes the described resource."
+references,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/references,isReferencedBy,"A related resource that is referenced, cited, or otherwise pointed to by the described resource."
+isReferencedBy,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/isReferencedBy,references,"A related resource that references, cites, or otherwise points to the described resource."
+requires,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/requires,isRequiredBy,"A related resource that is required by the described resource to support its function, delivery, or coherence."
+isRequiredBy,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/isRequiredBy,requires,"A related resource that requires the described resource to support its function, delivery, or coherence."
