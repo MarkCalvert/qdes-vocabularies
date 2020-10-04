@@ -1,0 +1,28 @@
+label,uri
+"Section of State Range",http://linked.data.gov.au/def/asgs#SectionOfStateRange
+"ASGS Feature",http://linked.data.gov.au/def/asgs#Feature
+"Remoteness Area",http://linked.data.gov.au/def/asgs#RemotenessArea
+"State Electoral Division",http://linked.data.gov.au/def/asgs#StateElectoralDivision
+"Statistical Area Level 4",http://linked.data.gov.au/def/asgs#StatisticalAreaLevel4
+"State or Territory",http://linked.data.gov.au/def/asgs#StateOrTerritory
+"Indigenous Region",http://linked.data.gov.au/def/asgs#IndigenousRegion
+"Significant Urban Area",http://linked.data.gov.au/def/asgs#SignificantUrbanArea
+"Country ",http://linked.data.gov.au/def/asgs#Country
+"Indigenous Location",http://linked.data.gov.au/def/asgs#IndigenousLocation
+"Destination Zone",http://linked.data.gov.au/def/asgs#DestinationZone
+"Australian Drainage Division",http://linked.data.gov.au/def/asgs#AustralianDrainageDivision
+"Natural Resource Management Region",http://linked.data.gov.au/def/asgs#NaturalResourceManagementRegion
+"Tourism Region",http://linked.data.gov.au/def/asgs#TourismRegion
+"Local Government Area",http://linked.data.gov.au/def/asgs#LocalGovernmentArea
+"Greater Capital City Statistical Area",http://linked.data.gov.au/def/asgs#GreaterCapitalCityStatisticalArea
+"Postal area",http://linked.data.gov.au/def/asgs#PostalArea
+"State Suburb",http://linked.data.gov.au/def/asgs#StateSuburb
+"Statistical Area Level 1",http://linked.data.gov.au/def/asgs#StatisticalAreaLevel1
+"Urban Centre and Locality",http://linked.data.gov.au/def/asgs#UrbanCentreAndLocality
+"Statistical Area Level 3",http://linked.data.gov.au/def/asgs#StatisticalAreaLevel3
+"Statistical Area Level 2",http://linked.data.gov.au/def/asgs#StatisticalAreaLevel2
+"Meshblock category",http://linked.data.gov.au/def/asgs#MeshblockCategory
+"Indigenous Area",http://linked.data.gov.au/def/asgs#IndigenousArea
+"Section of State",http://linked.data.gov.au/def/asgs#SectionOfState
+"Mesh Block",http://linked.data.gov.au/def/asgs#MeshBlock
+"Commonwealth Electoral Division",http://linked.data.gov.au/def/asgs#CommonwealthElectoralDivision
