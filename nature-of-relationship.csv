@@ -11,3 +11,11 @@ references,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#htt
 isReferencedBy,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/isReferencedBy,references,"A related resource that references, cites, or otherwise points to the described resource."
 requires,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/requires,isRequiredBy,"A related resource that is required by the described resource to support its function, delivery, or coherence."
 isRequiredBy,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/isRequiredBy,requires,"A related resource that requires the described resource to support its function, delivery, or coherence."
+wasDerivedFrom,https://www.w3.org/TR/2013/REC-prov-o-20130430/#wasDerivedFrom,,
+wasInfluencedB,https://www.w3.org/TR/2013/REC-prov-o-20130430/#wasInfluencedBy,,
+wasQuotedFrom,https://www.w3.org/TR/2013/REC-prov-o-20130430/#wasQuotedFrom,,
+wasRevisionOf,https://www.w3.org/TR/2013/REC-prov-o-20130430/#wasRevisionOf,,
+hadPrimarySource,https://www.w3.org/TR/2013/REC-prov-o-20130430/#hadPrimarySource,,
+alternateOf,https://www.w3.org/TR/2013/REC-prov-o-20130430/#alternateOf,,
+specialisationOf,https://www.w3.org/TR/2013/REC-prov-o-20130430/#specializationOf,,
+conformsTo,https://dublincore.org/specifications/dublin-core/dcmi-terms/#conformsTo,,
