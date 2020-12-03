@@ -1,4 +1,4 @@
-label,uri,defintion
+label,uri,definition
 "250 meters - < 500 meters",https://gcmdservices.gsfc.nasa.gov/kms/concept/e5c4876e-47b7-4d53-90a2-081a6b150140, "this is a test"
 "1 km - < 10 km or approximately .01 degree - < .09 degree",https://gcmdservices.gsfc.nasa.gov/kms/concept/6dd8224f-944e-4798-ac48-44c23a567eeb,"this is a another test"
 "50 km  - < 100 km or approximately .5 degree - < 1 degree",https://gcmdservices.gsfc.nasa.gov/kms/concept/35a7a6f2-69fe-4ba7-a2b5-91f83f52afb3,
